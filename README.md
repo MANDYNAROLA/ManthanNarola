@@ -1,5 +1,5 @@
 # Hi, I'm Manthan(mac/mandy)😂👋
-
+![Banner](banner.png)
 ## 👨‍💼 About Me
 I am a Business Analyst and IT Project Manager with hands-on experience delivering
 web platforms, admin dashboards, and client-focused tech solutions.
